@@ -17,8 +17,13 @@ body {
     width: 30%;
 }
 #img50 {
-    width: 80%;
+    width: 70%;
 }
+
+#img80 {
+    width: 60%;
+}
+
 
 h2 {
     display: block;
@@ -111,4 +116,7 @@ li {
     text-align: -webkit-match-parent;
 }
 
+.descrip {
+    font-size: 19px;  
+}
 
